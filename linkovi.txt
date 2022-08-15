@@ -1238,7 +1238,6 @@ link/admin_login.asp
 links
 linkz
 list
-$list['end'] = "admin1.php
 Listing
 LiveUser_Admin
 log
@@ -1490,7 +1489,6 @@ newbbs/login.asp
 newbook
 new/display
 newdown
-New File.txt
 newsadmin
 news/admin/upfile.asp
 news_detail.php
